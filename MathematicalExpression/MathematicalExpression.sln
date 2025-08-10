@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathematicalExpression", "MathematicalExpression\MathematicalExpression.csproj", "{28B54326-E94A-40DA-BE70-0BF4867BD926}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathematicalExpression.Test", "MathematicalExpression.Test\MathematicalExpression.Test.csproj", "{CD776EF4-69DA-4392-BAC5-DBA74D716A95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28B54326-E94A-40DA-BE70-0BF4867BD926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28B54326-E94A-40DA-BE70-0BF4867BD926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28B54326-E94A-40DA-BE70-0BF4867BD926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28B54326-E94A-40DA-BE70-0BF4867BD926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD776EF4-69DA-4392-BAC5-DBA74D716A95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD776EF4-69DA-4392-BAC5-DBA74D716A95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD776EF4-69DA-4392-BAC5-DBA74D716A95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD776EF4-69DA-4392-BAC5-DBA74D716A95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF8ED8C2-AFB8-46B1-B868-C3F53EEAD859}
+	EndGlobalSection
+EndGlobal
